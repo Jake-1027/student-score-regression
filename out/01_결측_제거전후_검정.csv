@@ -1,0 +1,31 @@
+변수,검정,p-value
+age,Mann-Whitney U,0.7905
+gender,chi2,0.6038
+city_type,chi2,0.4757
+study_hours_per_day,Mann-Whitney U,0.01
+deep_work_sessions,Mann-Whitney U,0.9574
+assignment_completion_rate,Mann-Whitney U,0.1821
+attendance_percentage,Mann-Whitney U,0.4262
+social_media_hours,Mann-Whitney U,0.0808
+doomscrolling_before_sleep,Mann-Whitney U,0.1118
+notification_distractions,Mann-Whitney U,0.5642
+ai_tool_usage_hours,Mann-Whitney U,0.0355
+gaming_hours,Mann-Whitney U,0.491
+stress_level,Mann-Whitney U,0.3257
+motivation_level,Mann-Whitney U,0.5067
+focus_score,Mann-Whitney U,0.292
+procrastination_index,Mann-Whitney U,0.8152
+mental_state,chi2,0.8201
+sleep_hours,Mann-Whitney U,0.5882
+caffeine_intake,Mann-Whitney U,0.2841
+physical_activity_hours,Mann-Whitney U,0.8697
+internet_quality,Mann-Whitney U,0.0059
+family_support,Mann-Whitney U,0.2248
+financial_stress,Mann-Whitney U,0.0644
+learning_style,chi2,0.3345
+career_goal,chi2,0.0609
+productivity_after_midnight,Mann-Whitney U,0.5625
+revision_efficiency,Mann-Whitney U,0.2133
+burnout_risk,Mann-Whitney U,0.5645
+consistency_score,Mann-Whitney U,0.1263
+final_exam_score,Mann-Whitney U,0.6905

@@ -1,0 +1,11 @@
+변수1,변수2,rho
+focus_score,procrastination_index,0.067
+financial_stress,burnout_risk,0.058
+caffeine_intake,revision_efficiency,0.045
+social_media_hours,caffeine_intake,-0.045
+ai_tool_usage_hours,productivity_after_midnight,-0.044
+gaming_hours,focus_score,-0.043
+age,ai_tool_usage_hours,-0.041
+social_media_hours,consistency_score,-0.041
+gaming_hours,family_support,-0.041
+deep_work_sessions,ai_tool_usage_hours,0.041

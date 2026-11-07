@@ -1,0 +1,18 @@
+변수,표현
+consistency_score,연속형
+study_hours_per_day,연속형
+focus_score,연속형
+procrastination_index,연속형
+burnout_risk,연속형
+revision_efficiency,연속형
+motivation_level,연속형
+social_media_hours,연속형
+stress_level,연속형
+attendance_percentage,연속형
+assignment_completion_rate,연속형
+financial_stress,연속형
+sleep_hours,연속형
+doomscrolling_before_sleep,더미(No 기준)
+mental_state,더미(Balanced+Distracted 기준)
+deep_work_sessions,"더미(0~5회 기준, 6~7회)"
+physical_activity_hours,후보: 더미(0시간 기준) — 04에서 비교
