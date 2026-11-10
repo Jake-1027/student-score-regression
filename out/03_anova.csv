@@ -1,0 +1,6 @@
+변수,집단 수,등분산 검정,등분산 p,검정,F,p,eta2,유의
+mental_state,4,Bartlett,0.9332,일원분산분석,97.254,8.272780895801777e-60,0.096,True
+city_type,3,Bartlett,0.088,일원분산분석,2.98,0.05097572936147279,0.002,False
+learning_style,4,Bartlett,0.2563,일원분산분석,0.601,0.6144881815407468,0.001,False
+career_goal,5,Bartlett,0.499,일원분산분석,0.603,0.6608396224375106,0.001,False
+deep_work_sessions,8,Bartlett,0.8691,일원분산분석,9.728,5.1266736511273624e-12,0.024,True
