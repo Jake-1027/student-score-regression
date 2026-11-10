@@ -1,7 +1,7 @@
-group1,group2,meandiff,p-adj,lower,upper,reject
-Balanced,Burnout,-7.7375,0.0,-10.2177,-5.2574,True
-Balanced,Distracted,-0.1473,0.9987,-2.6045,2.31,False
-Balanced,Focused,8.681,0.0,6.1801,11.182,True
-Burnout,Distracted,7.5903,0.0,5.1619,10.0187,True
-Burnout,Focused,16.4186,0.0,13.946,18.8911,True
-Distracted,Focused,8.8283,0.0,6.3787,11.2779,True
+group1,group2,meandiff,p-adj,lower,upper,reject,hedges_g
+Balanced,Burnout,-7.7375,0.0,-10.2177,-5.2574,True,0.436
+Balanced,Distracted,-0.1473,0.9987,-2.6045,2.31,False,0.008
+Balanced,Focused,8.681,0.0,6.1801,11.182,True,0.492
+Burnout,Distracted,7.5903,0.0,5.1619,10.0187,True,0.426
+Burnout,Focused,16.4186,0.0,13.946,18.8911,True,0.919
+Distracted,Focused,8.8283,0.0,6.3787,11.2779,True,0.498
